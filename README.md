@@ -8,6 +8,8 @@
 )](https://www.linkedin.com/in/walker088-391429109)
 [![email](https://custom-icon-badges.demolab.com/badge/Reach_me_via_email-red.svg?logo=mail
 )](mailto:cwwalker088@gmail.com)
+![github-streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dcwc1222%26type%3Djson)
+[![build-status](https://custom-icon-badges.demolab.com/github/actions/workflow/status/cwc1222/cwc1222/update-readme.yaml?branch=main&logo=check-circle-fill&logoColor=white)](https://github.com/cwc1222/cwc1222/actions)
 
 ## About Me
 

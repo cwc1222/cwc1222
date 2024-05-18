@@ -1,4 +1,4 @@
-name: Fetch latest posts from blog for README
+name: Update Readme
 
 on:
   push:
