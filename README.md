@@ -2,14 +2,15 @@
 # Hi there, this is cwc1222
 
 ![profile-views](https://komarev.com/ghpvc/?username=cwc1222)
+![github-streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dcwc1222%26type%3Djson)
+[![build-status](https://github.com/cwc1222/cwc1222/workflows/Update%20Readme/badge.svg)](https://github.com/cwc1222/cwc1222/actions)
+
 [![blog-badge](https://custom-icon-badges.demolab.com/badge/cwc1222's_blog-013243.svg?logo=Blogger&logoColor=white
 )](https://cwc1222.github.io)
 [![linked-in](https://custom-icon-badges.demolab.com/badge/chun--wei_chen-blue.svg?logo=Linkedin&logoColor=white
 )](https://www.linkedin.com/in/walker088-391429109)
 [![email](https://custom-icon-badges.demolab.com/badge/Reach_me_via_email-red.svg?logo=mail
 )](mailto:cwwalker088@gmail.com)
-![github-streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dcwc1222%26type%3Djson)
-[![build-status](https://github.com/cwc1222/cwc1222/workflows/Update%20Readme/badge.svg)](https://github.com/cwc1222/cwc1222/actions)
 
 ## About Me
 
