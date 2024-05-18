@@ -42,7 +42,8 @@ func main() {
 	}
 	defer readme.Close()
 
-	err = tmpl.Execute(readme, feed)
+	n := min(maxPostsToShow, len(feed.Items))
+	err = tmpl.Execute(readme, feed.Items[0:n])
 	if err != nil {
 		log.Fatalf("create file: %v", err)
 		panic(err)

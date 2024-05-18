@@ -29,6 +29,7 @@ He and his team developped a web-based system by Java, covering more than 150 pu
 
 - **[Reviving a 8-year-old MBP 2015 with Lubuntu](https://cwc1222.github.io/articles/reviving-a-8-year-old-mbp-2015-with-lubuntu)** *May 01, 2024*
 
+    Read more on [cwc1222.github.io](https://cwc1222.github.io/)
 
 ### :hammer_and_wrench: Languages and Tools
 
