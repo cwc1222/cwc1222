@@ -1,28 +1,50 @@
 package main
 
 import (
-	"fmt"
+	"html/template"
 	"log"
+	"os"
 
 	"github.com/mmcdole/gofeed"
-	//"github.com/cwc1222/cwc1222/src/rssparser"
 )
 
 const (
 	blogRssFeed    = "https://cwc1222.github.io/rss.xml"
 	maxPostsToShow = 5
+
+	readmeTmplPath = "README.md.tmpl"
+	readmePath     = "README.md"
 )
 
-func parseFeeds() *gofeed.Feed {
+func parseFeeds(rssFeed string) *gofeed.Feed {
 	fp := gofeed.NewParser()
-	feed, err := fp.ParseURL(blogRssFeed)
+	feed, err := fp.ParseURL(rssFeed)
 	if err != nil {
 		log.Fatalf("error getting feed: %v", err)
+		panic(err)
 	}
 	return feed
 }
 
 func main() {
-	feed := parseFeeds()
-	fmt.Println(feed)
+	feed := parseFeeds(blogRssFeed)
+
+	tmpl, err := template.ParseFiles(readmeTmplPath)
+	if err != nil {
+		log.Fatalf("create file: %v", err)
+		panic(err)
+	}
+
+	readme, err := os.Create(readmePath)
+	if err != nil {
+		log.Fatalf("create file: %v", err)
+		panic(err)
+	}
+	defer readme.Close()
+
+	err = tmpl.Execute(readme, feed)
+	if err != nil {
+		log.Fatalf("create file: %v", err)
+		panic(err)
+	}
 }

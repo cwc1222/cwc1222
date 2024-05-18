@@ -2,11 +2,11 @@
 # Hi there, this is cwc1222
 
 ![profile-views](https://komarev.com/ghpvc/?username=cwc1222)
-[![blog-badge](https://custom-icon-badges.demolab.com/badge/cwc1222's_blog-black.svg?logo=Blogger&logoColor=white
+[![blog-badge](https://custom-icon-badges.demolab.com/badge/cwc1222's_blog-013243.svg?logo=Blogger&logoColor=white
 )](https://cwc1222.github.io)
 [![linked-in](https://custom-icon-badges.demolab.com/badge/chun--wei_chen-blue.svg?logo=Linkedin&logoColor=white
 )](https://www.linkedin.com/in/walker088-391429109)
-[![email](https://custom-icon-badges.demolab.com/badge/Send_me_a_mail-red.svg?logo=mail
+[![email](https://custom-icon-badges.demolab.com/badge/Reach_me_via_email-red.svg?logo=mail
 )](mailto:cwwalker088@gmail.com)
 
 ## About Me
@@ -20,8 +20,13 @@ He and his team developped a web-based system by Java, covering more than 150 pu
 **Chun-Wei Chen**, Jian-Wei Su, Tung-Wei Kuo, and Kung Chen
 [Best paper award] The 2nd International Workshop on Blockchain Technologies and Systems (BCTS 2018)
 
+### Recent blog posts
 
-I'm also interested in the distributed system and algorithm design, I was doing the blockchain consensus algorithm design and implementation in the NCCU Network System Design Lab, publishing  [MSig-BFT](https://ieeexplore.ieee.org/document/8644609/authors#authors) on The 2nd International Workshop on Blockchain Technologies and Systems.
+
+- **[Build a personal blog using sveltekit](https://cwc1222.github.io/articles/build-a-personal-blog-using-sveltekit)** *May 12, 2024*
+
+- **[Reviving a 8-year-old MBP 2015 with Lubuntu](https://cwc1222.github.io/articles/reviving-a-8-year-old-mbp-2015-with-lubuntu)** *May 01, 2024*
+
 
 ## :hammer_and_wrench: Languages and Tools
 
