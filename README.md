@@ -9,7 +9,7 @@
 [![email](https://custom-icon-badges.demolab.com/badge/Reach_me_via_email-red.svg?logo=mail
 )](mailto:cwwalker088@gmail.com)
 ![github-streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dcwc1222%26type%3Djson)
-[![build-status](https://custom-icon-badges.demolab.com/github/actions/workflow/status/cwc1222/cwc1222/update-readme.yaml?branch=main&logo=check-circle-fill&logoColor=white)](https://github.com/cwc1222/cwc1222/actions)
+[![build-status](https://github.com/cwc1222/cwc1222/workflows/Update%20Readme/badge.svg)](https://github.com/cwc1222/cwc1222/actions)
 
 ## About Me
 
@@ -22,15 +22,14 @@ He and his team developped a web-based system by Java, covering more than 150 pu
 **Chun-Wei Chen**, Jian-Wei Su, Tung-Wei Kuo, and Kung Chen
 [Best paper award] The 2nd International Workshop on Blockchain Technologies and Systems (BCTS 2018)
 
-### Recent blog posts
-
+### :memo: Recent blog posts
 
 - **[Build a personal blog using sveltekit](https://cwc1222.github.io/articles/build-a-personal-blog-using-sveltekit)** *May 12, 2024*
 
 - **[Reviving a 8-year-old MBP 2015 with Lubuntu](https://cwc1222.github.io/articles/reviving-a-8-year-old-mbp-2015-with-lubuntu)** *May 01, 2024*
 
 
-## :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 
 <div align="center">
 
@@ -38,10 +37,6 @@ He and his team developped a web-based system by Java, covering more than 150 pu
 <img title="Typescript" alt="Typescript" width="50" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'>
 <img title="Golang" alt="Golang" width="50" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg'>
 <img title="Python" alt="Python" width="50" height="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
-
-</div>
-
-<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwc1222&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
