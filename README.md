@@ -25,6 +25,8 @@ He and his team developped a web-based system by Java, covering more than 150 pu
 
 ### :memo: Recent blog posts
 
+- **[Make your github profile README self updated](https://cwc1222.github.io/articles/make-your-github-profile-readme-self-updated)** *May 18, 2024*
+
 - **[Build a personal blog using sveltekit](https://cwc1222.github.io/articles/build-a-personal-blog-using-sveltekit)** *May 12, 2024*
 
 - **[Reviving a 8-year-old MBP 2015 with Lubuntu](https://cwc1222.github.io/articles/reviving-a-8-year-old-mbp-2015-with-lubuntu)** *May 01, 2024*
